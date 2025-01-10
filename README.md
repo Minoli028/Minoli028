@@ -25,9 +25,9 @@
 <div align="center">
  
 <a href="">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanimesha99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Minoli24&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kanimesha99&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Minoli24&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  
 </div>
@@ -38,7 +38,7 @@
  
 <div align="center">
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kanimesha99&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Minoli24&theme=dark&background=000000)](https://git.io/streak-stats)
  
 </div>
  
@@ -70,7 +70,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
  
+---
+
+### 🎯 &nbsp;My Current Focus  
+
+- 🚀 **Mastering Selenium with Java for automation frameworks**  
+- 🧪 **Exploring advanced techniques in API and UI testing**  
+- 📘 **Learning Playwright for modern end-to-end testing**  
+- 🌱 **Expanding my skills in cloud-based testing**  
+
 ---
  
 ### 📈 &nbsp;My Workflow Philosophy
